@@ -15,7 +15,7 @@ I am currently a second-year undergraduate student (Sophomore) at **[Guangdong U
 
 My research interests lie in **Computer Vision**, **Cross-Modal Learning**, and **Machine Learning**. I am particularly interested in how to enable machines to understand and reason about the world through visual and textual information.
 
-I am actively looking for **research internships** and **collaboration opportunities**. If you are interested in my work or have any questions, please feel free to reach out to me via [email](chenyingrui@mails.gdut.edu.cn) or GitHub.
+I am actively looking for **research internships** and **collaboration opportunities**. If you are interested in my work or have any questions, please feel free to reach out to me via email or GitHub.
 
 > *"不畏浮云遮望眼，自缘身在最高层。"*  
 > *"Fear not the floating clouds that block your eyes, for you are on the topmost height."*
